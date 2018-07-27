@@ -1,4 +1,4 @@
-et numbs = [];
+let numbs = [];
 
 function insert() {
     let inputEl = document.querySelector("input")
